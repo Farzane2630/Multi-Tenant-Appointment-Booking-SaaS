@@ -91,27 +91,41 @@ Businesses upload their logo, which appears on their customer panel — consiste
 <table>
   <tr>
     <td align="center"><b>Customer Booking Panel</b></td>
-    <td align="center"><b>Booking Confirmation</b></td>
-    <td align="center"><b>Admin Appointment Calendar</b></td>
+    <td align="center"><b>Contact Info Step</b></td>
+    <td align="center"><b>Booking Summary</b></td>
+    <td align="center"><b>Booking Success</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/booking-panel.png" width="200"/></td>
-    <td><img src="./screenshots/booking-confirm.png" width="200"/></td>
-    <td><img src="./screenshots/admin-calendar.png" width="200"/></td>
+    <td><img src="./screenshots/booking-panel.png" width="180"/></td>
+    <td><img src="./screenshots/booking-contact.png" width="180"/></td>
+    <td><img src="./screenshots/booking-confirm.png" width="180"/></td>
+    <td><img src="./screenshots/booking-success.png" width="180"/></td>
   </tr>
   <tr>
+    <td align="center"><b>Admin Calendar View</b></td>
     <td align="center"><b>Admin Table View</b></td>
-    <td align="center"><b>Business Settings</b></td>
     <td align="center"><b>Set Availability</b></td>
+    <td align="center"><b>Profile Menu</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/admin-table.png" width="200"/></td>
-    <td><img src="./screenshots/business-settings.png" width="200"/></td>
-    <td><img src="./screenshots/set-dates.png" width="200"/></td>
+    <td><img src="./screenshots/admin-calendar.png" width="180"/></td>
+    <td><img src="./screenshots/admin-table.png" width="180"/></td>
+    <td><img src="./screenshots/set-dates.png" width="180"/></td>
+    <td><img src="./screenshots/profile-menu.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Business Settings</b></td>
+    <td align="center"><b>Services & QR Code</b></td>
+    <td align="center"><b>Register</b></td>
+    <td align="center"><b>Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/business-settings.png" width="180"/></td>
+    <td><img src="./screenshots/business-services.png" width="180"/></td>
+    <td><img src="./screenshots/register.png" width="180"/></td>
+    <td><img src="./screenshots/login.png" width="180"/></td>
   </tr>
 </table>
-
-> 📁 Add your screenshots to a `/screenshots` folder in this repo and update the paths above.
 
 ---
 
