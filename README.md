@@ -13,7 +13,7 @@
 
 ## 🧠 What is My Panel App?
 
-**My Panel App** is a full-stack multi-tenant SaaS platform that lets any service-based business — salons, consultants, coaches, clinics, agencies — launch their own branded appointment booking panel **in minutes**, without writing a single line of code.
+**My Panel App** is a full-stack multi-tenant SaaS platform that lets any service-based business — salons, consultants, coaches, clinics, agencies — launch their own branded appointment booking panel **in minutes**, without writing a single line of code and their customers can complete an appointment booking in less than 30 seconds without phone calls, WhatsApp messages, or manual coordination.
 
 Each business gets:
 - A **personal admin panel** to manage appointments, services, and availability
