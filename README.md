@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="./screenshots/logo.png" width="96" alt="My Panel App logo" />
+</p>
+
 # 📅 My Panel App — Multi-Tenant Appointment Booking SaaS
 
 > **Live Demo:admin-panel** [panel.mypanelapp.ir](https://panel.mypanelapp.ir) &nbsp;|&nbsp; **Admin Panel source:** *(private repo)* &nbsp;|&nbsp; 
  > **Live Demo:test booking-panel** [mypanelapp.ir/admin-1](https://mypanelapp.ir/admin-1) &nbsp; **User Client source:** *(private repo)*
 
-![Platform Preview](https://img.shields.io/badge/Status-MVP%20Live-brightgreen?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Platform Preview](https://img.shields.io/badge/Status-MVP%20Live-brightgreen?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-Installable-9333ea?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 ---
 
@@ -67,6 +71,9 @@ Admins view appointments in a **calendar view** or **table view**, filter by sta
 ### 🖼️ Business Logo Upload
 Businesses upload their logo, which appears on their customer panel — consistent branding without any design skills needed.
 
+### 📲 Progressive Web App (PWA)
+The admin panel is installable as a native-feeling app. Business owners can add it straight to their phone's home screen — complete with its own icon and splash screen — and open it like any other app, no browser chrome, no App Store required.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -126,6 +133,11 @@ Businesses upload their logo, which appears on their customer panel — consiste
     <td><img src="./screenshots/login.png" width="180"/></td>
   </tr>
 </table>
+
+<p align="center">
+  <b>📲 Admin panel installed as a PWA on a phone's home screen</b><br/>
+  <img src="./screenshots/pwa-home-screen.jpeg" width="200"/>
+</p>
 
 ---
 
